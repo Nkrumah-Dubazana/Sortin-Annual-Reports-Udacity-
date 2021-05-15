@@ -1,0 +1,2 @@
+# Sortin Annual Reports(Udacity)
+ The bot will create a project that sorts files according to the date(ddmmyyyy), which the file names have and create a dynamic folder according to the year(yyyy), which the file names have. The bot will move the files to a specific folder.  If the file name has no date, the bot will create a dynamic folder with the current date and move those files to that respective folder
